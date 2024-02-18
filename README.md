@@ -15,6 +15,6 @@ Ready to accept the challenge?
 
 //================================================
 
-To run this code successfully, please make sure you have installed all required packages by running `pip install -r requirements
+To run this code successfully, please make sure you have installed all required packages by running `pip install -r requirements`
 
 Then run `app.py` file using python interpreter or any IDE which supports Python. 
